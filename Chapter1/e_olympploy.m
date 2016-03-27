@@ -2,6 +2,7 @@ clear all;close all;clc;
 
 %% 八阶多项式函数拟合
 
+
 %% Load the Olympic data
 load data/olympics.mat
 x = male100(:,1);
