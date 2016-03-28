@@ -55,7 +55,7 @@ legend('True','Laplace Approximation');
 %% Plot the decision counters
 % Create an x grid
 [Xv,Yv] = meshgrid(-5:0.1:5,-5:0.1:5);
-
+d
 % Generate samples from the approximate posterior
 path(path,'../utilities');
 Nsamps = 1000;

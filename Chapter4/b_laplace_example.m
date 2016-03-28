@@ -21,7 +21,7 @@ legend('Gamma','Laplace appromation');
 alpha = 2;
 beta = 100;
 
-% Find the mode
+% Find the modec
 y_hat = (alpha-1)/beta;
 % Find the variance
 ss = (alpha-1)/beta^2;
